@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 古周易訂詁
-#+DATE: 2015-09-23 09:35:17
-#+PROPERTY: JUAN 17
+#+DATE: 2015-08-24 21:58:21.337026
+#+PROPERTY: ID KR1a0113
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 解經處答客問
 <pb:KR1a0113_WYG_017-1a>¶
 　　解經處答客問¶
 聖皇御極五禩余莅吳關畏此簡書夜寐夙興罔敢怠¶
@@ -83,4 +85,3 @@
 其繇曰自天佑之吉无不利客囅然曰有是哉盍識其¶
 言于石俾後之君子亹亹焉崇禎癸酉春正月吉虎疁¶
 使者閩漳何楷𤣥子氏識於署中之解經處¶
-

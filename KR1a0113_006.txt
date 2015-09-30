@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 古周易訂詁
-#+DATE: 2015-09-23 09:35:17
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 21:58:21.147809
+#+PROPERTY: ID KR1a0113
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1a0113_WYG_006-1a>¶
 欽定四庫全書¶
 　古周易訂詁卷六¶
@@ -1838,4 +1840,3 @@
 　(神明之德以類萬物之情又作結繩而為網罟葢取/諸離氣化自此開矣聖人南面而聽天下嚮明而治)¶
 　(亦取諸此况周家乃以火德王者此其所以/殿之上下經之終而與乾相為首尾也歟)¶
 　古周易訂詁卷六¶
-
